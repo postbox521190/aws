@@ -1,0 +1,10 @@
+IAM : IAM stands for identity access management.
+      IAM allows you to manage users and their level of access to aws console.Here users can be created and maintained in groups.
+      can able to provides required access to users.
+      IAM is universal it doesn't apply to regions
+      "root account " is created when aws account is created and it as all admin access .
+      New users have no permissions when first created.
+      New users are assigned Access key ID & secret access keys when first created. and they are not same as password.
+      Always set up multifactor authentication on your root account.
+      you can create and customise your own password policies.
+      
