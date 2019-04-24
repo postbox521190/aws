@@ -1,0 +1,27 @@
+S3: Simple storage service
+* This is mainly used for storing files. files are get stored in the form of objects . can store file of size from 0 to 5tb.
+* and can store unlimitted files.
+* here files are stored in Buckets (folders).Name of buckets should be unique.Because S3 is a universal namespace
+* when u upload a file u can receive HTTP 200 code for successful uploading.
+
+S3 has following features:
+      tiered storage available
+      Lifecycle management
+	  Versioning
+	  Encryption
+	  MFA delete
+	  Secure data by using Access control lists and bucket policies.
+	 
+Storage classes :
+           s3 stanaders , s3 ia , s3 deep archive, s3 glasris etc..
+		   
+S3 charges based on :
+     storage,
+	 requests
+	 storage management pricing
+	 data transfer pricing
+	 transfer acceleration
+	 cross region replication pricing.
+	 
+	 
+	 
