@@ -25,3 +25,12 @@ S3 charges based on :
 	 
 	 
 	 
+Cross Region replication : copying files from one region to another region
+	This can be seen in Management of Bucket.
+	For cross region replication verstioning should be enabled
+	Files in existing bucket can't be replicated automataocally 
+	all subsequent updated files will be replicated automatically
+	Delete markers are not replicated, deleting individual versions are also not replicated.
+	
+	
+	 
