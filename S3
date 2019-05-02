@@ -32,5 +32,5 @@ Cross Region replication : copying files from one region to another region
 	all subsequent updated files will be replicated automatically
 	Delete markers are not replicated, deleting individual versions are also not replicated.
 	
-	
+ 
 	 
